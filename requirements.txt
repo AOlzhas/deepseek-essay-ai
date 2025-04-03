@@ -1,1 +1,1 @@
-torch>=2.0transformers>=4.30accelerategradio>=4.0sentencepiece
+transformers\ngradio\ntorch\naccelerate
